@@ -7,7 +7,6 @@ import (
 	"math"
 	"sort"
 	"strconv"
-
 	. "github.com/skelterjohn/go.matrix"
 )
 
